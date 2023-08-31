@@ -18,7 +18,7 @@
   --secondary-color: #fff;
   --link-color: #fff;
   --footer-color: #222020;
-  --shadow-color: #1f1e1e;
+  --shadow-color: #252525;
 }
 html {
   scroll-behavior: smooth;
@@ -184,6 +184,7 @@ body {
 
 .about-image img {
   width: 300px;
+  border-radius: 15px;
 }
 .about-content {
   /* padding: 10px 20px; */
